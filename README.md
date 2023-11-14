@@ -7,3 +7,8 @@
 ## ![939731_git_github_hub icon_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/fa2b2940-00d1-484d-a3c7-52ccc8f8f3e5) Pronouns: Mr. ![2981947_gentleman_grandfather_male smiley_man smile_mister_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/e024897e-18bd-484a-9afa-dca4e81d62a6)
 ## ![939731_git_github_hub icon_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/fa2b2940-00d1-484d-a3c7-52ccc8f8f3e5) Interesting fact: I started as an AWF student and ended up in Computer Science. Life is perverse
 ## ![939731_git_github_hub icon_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/fa2b2940-00d1-484d-a3c7-52ccc8f8f3e5) 📫 How to reach me: ...
+
+
+
+
+### Languages and Tools 
