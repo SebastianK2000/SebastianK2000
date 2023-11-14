@@ -8,9 +8,6 @@
 ## ![939731_git_github_hub icon_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/fa2b2940-00d1-484d-a3c7-52ccc8f8f3e5) Interesting fact: I started as an AWF student and ended up in Computer Science. Life is perverse
 ## ![939731_git_github_hub icon_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/fa2b2940-00d1-484d-a3c7-52ccc8f8f3e5) 📫 How to reach me: ...
 
-
-
-### Languages and Tools ![5413179_block_blockchain_chain_cryptocurrency_technology_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/c7835322-da3c-450e-bee1-595dcd86123e)
 ![317755_badge_html_html5_achievement_award_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/7f56adb8-ee3e-4ed8-b86a-01cc3038a8bf)
 ![4202020_css3_html_logo_social_social media_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/c8f16dbe-03df-4183-aa29-bcb7944e14aa)
 ![4373213_js_logo_logos_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/0c141b81-3818-45c0-a03d-d091cddc5d3b)
@@ -24,3 +21,23 @@
 ![4691328_postgresql_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/2a0e7f40-97bd-4599-bdb4-da6567619079)
 ![1012821_code_development_logo_mysql_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/725faf9a-f86a-4574-b16e-7a7ffd1da52b)
 ![5674994_beetle_bug_fix_qa_search_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/c63bac47-cb71-4933-9ee5-f41572a26058)
+
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
+<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
+<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
+<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
+<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
+<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
+<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
+<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
+<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
+<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
+<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
+<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
+<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
+<br />
+
+#
