@@ -17,9 +17,7 @@
 
 ![4691328_postgresql_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/2a0e7f40-97bd-4599-bdb4-da6567619079)
 ![1012821_code_development_logo_mysql_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/725faf9a-f86a-4574-b16e-7a7ffd1da52b)
-![259_c_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/37a648ec-dcb0-4334-9b01-7e2778a4445c)
 ![7564189_c_logo_plus plus_plus_+ +_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/46541b4b-a71c-413f-8c23-2d457449a9e9)
-![3838347_analysis_computing_data_programming_r_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/d8ebd64c-2329-4a0b-8843-597d74707d02)
 ![7564187_figma_logo_brand_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/d2b849ce-f3b6-41b6-a31f-a7521255267a)
 ![2993773_git_social media_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/34b9ef58-41bc-47a9-a859-ea5529d92a91)
 ![4373190_docker_logo_logos_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/3eb48554-7e56-48b4-9fb7-1d4de23e3984)
