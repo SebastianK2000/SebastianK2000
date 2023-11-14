@@ -6,12 +6,4 @@
 ## ![939731_git_github_hub icon_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/fa2b2940-00d1-484d-a3c7-52ccc8f8f3e5) I am currently working on projects which you can see on my github ![2993773_git_social media_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/d0bd19b2-ce36-45bf-99d7-c1b7f8b462c4)
 ## ![939731_git_github_hub icon_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/fa2b2940-00d1-484d-a3c7-52ccc8f8f3e5) Pronouns: Mr. ![2981947_gentleman_grandfather_male smiley_man smile_mister_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/e024897e-18bd-484a-9afa-dca4e81d62a6)
 ## ![939731_git_github_hub icon_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/fa2b2940-00d1-484d-a3c7-52ccc8f8f3e5) Interesting fact: I started as an AWF student and ended up in Computer Science. Life is perverse
-
-
-
-<!--
-**SebastianK2000/SebastianK2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+## ![939731_git_github_hub icon_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/fa2b2940-00d1-484d-a3c7-52ccc8f8f3e5) 📫 How to reach me: ...
