@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#-💬 Ask me about my experience and my career path. ![2606076_experience_slideshow_user_ux_website_icon (1)](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/d41bab3c-e68a-47ea-a441-761f379ffede)
+# -💬 Ask me about my experience and my career path. ![2606076_experience_slideshow_user_ux_website_icon (1)](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/d41bab3c-e68a-47ea-a441-761f379ffede)
 
 <!--
 **SebastianK2000/SebastianK2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
