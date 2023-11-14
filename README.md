@@ -11,8 +11,9 @@
 
 
 ### Languages and Tools ![5413179_block_blockchain_chain_cryptocurrency_technology_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/c7835322-da3c-450e-bee1-595dcd86123e)
-
-
+![317755_badge_html_html5_achievement_award_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/7f56adb8-ee3e-4ed8-b86a-01cc3038a8bf)
+![4202020_css3_html_logo_social_social media_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/c8f16dbe-03df-4183-aa29-bcb7944e14aa)
+![4373213_js_logo_logos_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/0c141b81-3818-45c0-a03d-d091cddc5d3b)
 
 ![4691328_postgresql_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/2a0e7f40-97bd-4599-bdb4-da6567619079)
 ![1012821_code_development_logo_mysql_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/725faf9a-f86a-4574-b16e-7a7ffd1da52b)
@@ -22,9 +23,8 @@
 ![7564187_figma_logo_brand_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/d2b849ce-f3b6-41b6-a31f-a7521255267a)
 ![2993773_git_social media_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/34b9ef58-41bc-47a9-a859-ea5529d92a91)
 ![4373190_docker_logo_logos_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/3eb48554-7e56-48b4-9fb7-1d4de23e3984)
-![4373213_js_logo_logos_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/0c141b81-3818-45c0-a03d-d091cddc5d3b)
-![4202020_css3_html_logo_social_social media_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/c8f16dbe-03df-4183-aa29-bcb7944e14aa)
-![317755_badge_html_html5_achievement_award_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/7f56adb8-ee3e-4ed8-b86a-01cc3038a8bf)
+
+
 ![7472322_sql_database_structured_query_language_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/930cb819-576c-44ec-bcf4-b2464b5ed3ca)
 ![8546808_bootstrap_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/3c922f39-a03c-4ae0-9da5-b8bf00d9251e)
 ![4373217_java_logo_logos_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/5d066d7c-cdb9-4114-ae90-1d18c78dc426)
