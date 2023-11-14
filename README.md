@@ -21,9 +21,8 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="![7472322_sql_database_structured_query_language_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/930cb819-576c-44ec-bcf4-b2464b5ed3ca)"/>
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="![4691328_postgresql_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/2a0e7f40-97bd-4599-bdb4-da6567619079)
-"/>
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="![1012821_code_development_logo_mysql_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/725faf9a-f86a-4574-b16e-7a7ffd1da52b)"/>
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="Fix bug" width="30px" style="padding-right:10px;" src="![5674994_beetle_bug_fix_qa_search_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/c63bac47-cb71-4933-9ee5-f41572a26058)"/>
 <br />
 
