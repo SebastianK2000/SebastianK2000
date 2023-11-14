@@ -13,13 +13,11 @@
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-"/>
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="![8546808_bootstrap_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/3c922f39-a03c-4ae0-9da5-b8bf00d9251e)"/>
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="![7564187_figma_logo_brand_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/d2b849ce-f3b6-41b6-a31f-a7521255267a)"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="![7564189_c_logo_plus plus_plus_+ +_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/46541b4b-a71c-413f-8c23-2d457449a9e9)"/>
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="![4373190_docker_logo_logos_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/3eb48554-7e56-48b4-9fb7-1d4de23e3984)"/>
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="![7472322_sql_database_structured_query_language_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/930cb819-576c-44ec-bcf4-b2464b5ed3ca)"/>
