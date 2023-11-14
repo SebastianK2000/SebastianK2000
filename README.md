@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![2606076_experience_slideshow_user_ux_website_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/015f5357-daa5-42d7-ab06-2c7d7889845a)
+
+
 <!--
 **SebastianK2000/SebastianK2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
