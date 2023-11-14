@@ -12,3 +12,18 @@
 
 
 ### Languages and Tools ![5413179_block_blockchain_chain_cryptocurrency_technology_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/c7835322-da3c-450e-bee1-595dcd86123e)
+
+![7472322_sql_database_structured_query_language_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/fe63d871-50c7-465e-adc3-3418376fe6c7)
+![4691328_postgresql_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/1fcb5681-1d98-4626-a7cc-73b0ec27527b)
+![1012821_code_development_logo_mysql_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/7c5e49b4-e4fa-4ea1-ad64-f877c48d9bfc)
+![259_c_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/60a385bb-5404-4f05-a6fd-3c58e8bf2f72)
+![7564189_c_logo_plus plus_plus_+ +_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/c784b101-b540-4dca-9e06-9351e1b69ccb)
+![2993773_git_social media_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/dd889c01-aa72-40f0-a488-d3f7833887b8)
+![4373190_docker_logo_logos_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/574ed4b6-72db-470e-b64f-9f0e2c3d3425)
+![4373213_js_logo_logos_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/6b20b73e-8a46-44ed-a6cc-bad952589b49)
+![317755_badge_html_html5_achievement_award_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/cb7dc590-bb07-477e-9b94-103d7a2e779f)
+
+![5674994_beetle_bug_fix_qa_search_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/d3965b10-8be4-40e4-905a-fae018060ad5)
+![7564187_figma_logo_brand_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/b2126fd1-0907-4249-9e7f-45ac1b4145d4)
+
+![8546808_bootstrap_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/132331fd-9b1d-49c8-8fa4-bffefc9606d2)
