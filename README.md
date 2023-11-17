@@ -4,10 +4,10 @@
 ### I am currently learning Frontend in a broad sense and learning Java ![4373217_java_logo_logos_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/966ed175-2464-42bd-bdbf-da5ab438616b)
 ### Looking for help with finding a job as a programmer ![2150814_good_job_business_thumbs_up_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/8b1ef71d-1b45-4e2b-82ed-34e328e75d19)
 ### I am currently working on projects which you can see on my github ![2993773_git_social media_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/d0bd19b2-ce36-45bf-99d7-c1b7f8b462c4)
-### Pronouns: Mr. ![2981947_gentleman_grandfather_male smiley_man smile_mister_icon](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/e024897e-18bd-484a-9afa-dca4e81d62a6)
+### 
 ### Interesting fact: I started as an AWF student and ended up in Computer Science. Life is perverse
 ### 📫 How to reach me: ...
-
+<p>Pronouns: Mr. ![2981947_gentleman_grandfather_male smiley_man smile_mister_icon] <img width="30px" style="padding-right:10px;" src="https://github.com/SebastianK2000/SebastianK2000/assets/127401994/e024897e-18bd-484a-9afa-dca4e81d62a6" /></p>
 
 ### 🧰 Languages and Tools
 
