@@ -2,7 +2,7 @@
 ### <p>Hi there. I'm Sebastian. I young Frontend Developer <img width="30px" src="" /></p>
 
 ### <p>Ask me about my experience and my career path <img src="" /><br></p>
-### <p>I am currently learning Frontend in a broad sense and learning Java img< src="" /><br></p>
+### <p>I am currently learning Frontend in a broad sense and learning Java <img src="" /><br></p>
 ### <p>Looking for help with finding a job as a programmer <img src="" /><br></p>
 ### <p>I am currently working on projects which you can see on my github <img src="" /><br></p>
 ### <p>Interesting fact: I started as an AWF student and ended up in Computer Science. Life is perverse</p>
