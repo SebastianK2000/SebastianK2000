@@ -7,6 +7,7 @@
 ### 
 ### Interesting fact: I started as an AWF student and ended up in Computer Science. Life is perverse
 ### 📫 How to reach me: ...
+
 <p>Pronouns: Mr. ![2981947_gentleman_grandfather_male smiley_man smile_mister_icon] <img width="30px" style="padding-right:10px;" src="https://github.com/SebastianK2000/SebastianK2000/assets/127401994/e024897e-18bd-484a-9afa-dca4e81d62a6" /></p>
 
 ### 🧰 Languages and Tools
