@@ -1,5 +1,5 @@
 ### file README.MD under construction
-### <p>Hi there. I'm Sebastian. I young Frontend Developer <img width="30px" src="https://www.shutterstock.com/image-vector/html-icon-670653184" /></p>
+### <p>Hi there. I'm Sebastian. I young Frontend Developer <img width="30px" src="https://icons8.com/icon/k97AHAsTTc6K/html" /></p>
 
 ### <p>Ask me about my experience and my career path <img src="" /><br></p>
 ### <p>I am currently learning Frontend in a broad sense and learning Java <img src="" /><br></p>
