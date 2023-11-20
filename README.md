@@ -21,12 +21,21 @@
 </p>
 
 ### <p align="center">I am currently working on projects which you can see on my GitHub.</p>
+<br/>
+
 ### <p align="center">Interesting fact: I started as an AWF student and ended up in Computer Science. Life is perverse.</p>
+
+<br/>
+
 
 [My GitHub Projects](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/4ea4c306-dd42-4a48-8631-8d3af3c2fbaa)
 
+<br/><br/>
+
 
 ## <p align="center">Awesome Project:</p>
+<br/>
+
 <details>
   <summary>Click to show projects</summary>
 
