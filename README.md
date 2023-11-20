@@ -27,6 +27,8 @@
 
 
 ## <p align="center">Awesome Project:</p>
+<details>
+  <summary>Click to show projects</summary>
 
 | [RocketHomeWorks](https://github.com/SebastianK2000/RocketHomeWorks) | [LibraryApp](https://github.com/SebastianK2000/Library) |
 |---|---|
@@ -36,6 +38,7 @@
 |---|---|
 | <img src="https://github.com/SebastianK2000/SebastianK2000/assets/127401994/a2cbacbd-d1d4-4ce9-97ae-bdd9aedd98d8" alt="Huddle_LandingPage"> | <img src="https://github.com/SebastianK2000/SebastianK2000/assets/127401994/6997f334-db44-4d90-bf47-f438c92fa124" alt="InteractiveCard"> |
 <br><br>
+</details>
 
 
 #### <p align="center">Languages and Tools</p>
