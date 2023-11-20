@@ -7,13 +7,10 @@
 ### <p>Looking for help with finding a job as a programmer</p>
 ![internet-3443_256](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/f5629abb-93d7-40c5-9f3b-7f2a52a1f600)
 ### <p>I am currently working on projects which you can see on my github</p>
-
-
+<br>
 https://github.com/SebastianK2000/SebastianK2000/assets/127401994/4ea4c306-dd42-4a48-8631-8d3af3c2fbaa
-
-
+<br>
 ### <p>Interesting fact: I started as an AWF student and ended up in Computer Science. Life is perverse</p>
-### <p>📫 How to reach me: ...</p>
 
 #### <p align="center">Languages and Tools</p>
 
