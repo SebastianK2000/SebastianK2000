@@ -4,9 +4,9 @@
   <img src="https://github.com/SebastianK2000/SebastianK2000/assets/127401994/b381d6b3-ff78-410e-ac69-5a7ad6acfd9f" alt="Profile Image">
 </p>
 
-### <p align="center">Ask me about my experience and my career path</p>
-
-### <p align="center">I am currently learning Frontend in a broad sense and learning Java</p>
+### <p align="center">Ask me about my experience and my career path.</p>
+<br>
+### <p align="center">I am currently learning Frontend in a broad sense and learning Java.</p>
 
 <p align="center">
   <img src="https://github.com/SebastianK2000/SebastianK2000/assets/127401994/ecfe3d2d-2988-4695-8b3b-d64721d8d2e0" alt="Coffee Image">
