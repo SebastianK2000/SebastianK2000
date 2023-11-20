@@ -34,10 +34,12 @@
 
 
 ## <p align="center">Awesome Project:</p>
-<br/>
+<br/><br/>
 
 <details>
+  <br/>
   <summary>Click to show projects</summary>
+  <br/>
 
 | [RocketHomeWorks](https://github.com/SebastianK2000/RocketHomeWorks) | [LibraryApp](https://github.com/SebastianK2000/Library) |
 |---|---|
