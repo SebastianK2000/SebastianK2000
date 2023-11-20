@@ -27,6 +27,7 @@
 
 ## Awesome Project: 
 ## 2. [LibraryApp](https://github.com/SebastianK2000/Library)
+## 3. <p>Huddle_LandingPage <img align="center" src="https://github.com/SebastianK2000/Huddle_LandingPage.git" /></p>
 
 
 
