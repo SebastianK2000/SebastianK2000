@@ -27,17 +27,13 @@
 
 ## Awesome Project: 
 ### 1. [RocketHomeWorks](https://github.com/SebastianK2000/RocketHomeWorks)
-
+<img src="![2](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/814926aa-6b7e-434e-b42c-7c556597afed)" />
 ### 2. [LibraryApp](https://github.com/SebastianK2000/Library)
-
+<img src="![4 1](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/11486fd3-9ded-48cc-ac24-b24ebdeb04e5)" />
 ### 3. [Huddle_LandingPage](https://github.com/SebastianK2000/Huddle_LandingPage)
-<img src="https://github.com/SebastianK2000/SebastianK2000/assets/127401994/8d715596-193c-4151-93f4-b503d5fecab5" />
-
+<img src="![1](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/a2cbacbd-d1d4-4ce9-97ae-bdd9aedd98d8)" />
 ### 4. [InteractiveCard](https://github.com/SebastianK2000/InteractiveCard)
-
-### 5. [InteractiveCard](https://github.com/SebastianK2000/InteractiveCard)
-
-
+<img src="![3](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/6997f334-db44-4d90-bf47-f438c92fa124)" />
 
 #### <p align="center">Languages and Tools</p>
 
