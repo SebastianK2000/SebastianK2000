@@ -34,10 +34,9 @@
 
 
 ## <p align="center">Awesome Project:</p>
-<br/><br/>
+<br/>
 
 <details>
-  <br/>
   <summary>Click to show projects</summary>
   <br/>
 
