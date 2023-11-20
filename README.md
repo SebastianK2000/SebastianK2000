@@ -2,7 +2,7 @@
 ### <p>Hi there. I'm Sebastian. I young Frontend Developer <img width="30px" src="" /></p>
 
 
-<iframe src="https://giphy.com/embed/xThuWu82QD3pj4wvEQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xThuWu82QD3pj4wvEQ">via GIPHY</a></p>
+https://giphy.com/embed/xThuWu82QD3pj4wvEQ
 
 ### <p>Ask me about my experience and my career path <img src="" /><br></p>
 ### <p>I am currently learning Frontend in a broad sense and learning Java <img src="" /><br></p>
