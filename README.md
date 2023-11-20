@@ -2,7 +2,7 @@
 ### <p>Hi there. I'm Sebastian. I young Frontend Developer</p>
 ![internet-6622_256](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/b381d6b3-ff78-410e-ac69-5a7ad6acfd9f)
 ### <p>Ask me about my experience and my career path</p>
-### <p>I am currently learning Frontend in a broad sense and learning Java <img src="" /><br></p>
+### <p>I am currently learning Frontend in a broad sense and learning Java</p> ![coffee-8347_256](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/ecfe3d2d-2988-4695-8b3b-d64721d8d2e0)
 ### <p>Looking for help with finding a job as a programmer <img src="" /><br></p>
 ### <p>I am currently working on projects which you can see on my github <img src="" /><br></p>
 ### <p>Interesting fact: I started as an AWF student and ended up in Computer Science. Life is perverse</p>
