@@ -1,4 +1,4 @@
-## <p>Hi there! I'm Sebastian, a young Frontend Developer</p>
+## <p align="center">Hi there! I'm Sebastian, a young Frontend Developer</p>
 
 <p align="center">
   <img src="https://github.com/SebastianK2000/SebastianK2000/assets/127401994/b381d6b3-ff78-410e-ac69-5a7ad6acfd9f" alt="Profile Image">
