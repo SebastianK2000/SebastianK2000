@@ -1,9 +1,5 @@
 ### file README.MD under construction
-### <p>Hi there. I'm Sebastian. I young Frontend Developer <img width="30px" src="" /></p>
-
-
-https://giphy.com/embed/xThuWu82QD3pj4wvEQ
-
+### <p>Hi there. I'm Sebastian. I young Frontend Developer <img width="30px" src="![camp-fire-933_256](https://github.com/SebastianK2000/SebastianK2000/assets/127401994/3ec1f054-c65d-4e64-8cde-85d9b2358b20)" /></p>
 ### <p>Ask me about my experience and my career path <img src="" /><br></p>
 ### <p>I am currently learning Frontend in a broad sense and learning Java <img src="" /><br></p>
 ### <p>Looking for help with finding a job as a programmer <img src="" /><br></p>
