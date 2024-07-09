@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img width="150px" src="https://github.com/SebastianK2000/SebastianK2000/assets/127401994/f5629abb-93d7-40c5-9f3b-7f2a52a1f600" alt="Internet Image">
 </p>
 
