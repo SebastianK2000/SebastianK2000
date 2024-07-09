@@ -4,7 +4,7 @@
 
 <h2 align="center">
   <br /><br />
-I'm Sebastian, I'm frontend developer basen in Poland (Cracow).
+I'm Sebastian, I'm frontend developer based in Poland (Cracow).
   <br /><br />
 I have been learning frontend programming since December 2021.
   <br /><br /><br />
